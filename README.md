@@ -1,4 +1,4 @@
-```markdown
+
 ## Aplicação:
 
 Um ebook feito utilizando apenas Chat GPT, Leonardo.AI e Canva.
